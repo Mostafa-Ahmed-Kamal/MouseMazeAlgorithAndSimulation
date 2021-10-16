@@ -5,7 +5,7 @@ MazeSimulator1 Folder : trial code just contains a trial version of maze simulat
 
 MouseMazeAlgorithmAndSimulator Folder : actual code used for solving the maze without preknowledge of it, the mouse explores the maze and learns on the run.
 
-simualtion file: MazeSimulator2.java.
+simualtion "runnable" file: MazeSimulator2.java.
 
 ALgorithm file : ModifiedFloodFill.java.
 
