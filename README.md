@@ -8,3 +8,11 @@ MouseMazeAlgorithmAndSimulator Folder : actual code used for solving the maze wi
     ALgorithm file : ModifiedFloodFill.java
     MazeGeneratorFile : a simulation to show how the random maze generation works, you can run it using the commented part on the "MazeSimulator2.java"'s main function
     ArduinoMouseSimulator: a simplified and modified version of the code with only basic functions as the ones that will be implemented using the arduino in the actual robot
+
+
+https://user-images.githubusercontent.com/61250718/137587061-9344c24a-4014-49aa-ac07-e06d698c3d82.mp4
+
+
+
+https://user-images.githubusercontent.com/61250718/137587319-6fa5e424-e28f-47aa-8b72-efecc7b1c366.mp4
+
