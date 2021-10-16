@@ -3,7 +3,7 @@ Algorithm code for mouse maze competition with simulation and maze generator
 
 MazeSimulator1 Folder : trial code just contains a trial version of maze simulator on a simple DFS algorithm "not useful"
 
-MouseMazeAlgorithmAndSimulator Folder : actual code used for solving the maze without preknowledge of the it, the mouse explores the maze and learns on the run.
+MouseMazeAlgorithmAndSimulator Folder : actual code used for solving the maze without preknowledge of it, the mouse explores the maze and learns on the run.
 
 simualtion file: MazeSimulator2.java.
 
