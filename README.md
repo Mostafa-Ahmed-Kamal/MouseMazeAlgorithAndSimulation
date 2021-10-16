@@ -1,5 +1,5 @@
 # MouseMazeAlgorithAndSimulation
-Algorithm code for mouse maze competition with simulation and maze generator
+Algorithm code for mouse maze competition with simulation and maze generator, the algorithm uses a mixture of "AStar" and a modified version of "floodfill" algorithm to solve the maze, on it's way back it goes to visit some suspecious nodes to make sure that he finds the shortest path immediatly in the second run.
 
 MazeSimulator1 Folder : trial code just contains a trial version of maze simulator on a simple DFS algorithm "not useful"
 
